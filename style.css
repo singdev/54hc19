@@ -176,3 +176,27 @@ form {
 .form-group label {
   color: white;
 }
+
+.card {
+  padding: 2rem;
+  margin: 3rem;
+  box-shadow: 10px -5px 10px #eeeeee;
+  border-radius: 10px;
+}
+
+.card-icon {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.card-icon img {
+  width: 200px;
+  height: auto;
+}
